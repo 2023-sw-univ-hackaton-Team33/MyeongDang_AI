@@ -5,7 +5,7 @@
 - (1) 기업명, url 등 정보를 받아와서
 - (2) 해당 url에서 크롤링 진행, text 생성
 
-2. summa, sckit-learn, konlpy 라이브러리를 사용하여 
+2. sckit-learn, summa, konlpy 라이브러리를 사용하여 
 - (1) text 핵심 문장 추출
 - (2) 키워드 단어 추출
 
