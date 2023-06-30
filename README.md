@@ -1,0 +1,2 @@
+# MyeongDang_AI
+NLP
